@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UnrealEngine/Outcasts/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealEngine/Outcasts/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PI/1KK3HUECKLNNLC15D8AIQN.uasset",
+				"D:/UnrealEngine/Outcasts/Content/ThirdPerson/Blueprints/BP_EnemyCharacter.uasset",
+				"D:/UnrealEngine/Outcasts/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0H/QX0JFEKPN3NTZSXGHFEBPM.uasset",
 				"C:/Users/Vendann/Documents/Unreal Projects/Cossacks/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Vendann/Documents/Unreal Projects/Cossacks/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/Vendann/Documents/Unreal Projects/Cossacks/Content/Animations/SwordAndShieldSlash2_UE.uasset",
